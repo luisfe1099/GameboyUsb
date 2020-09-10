@@ -1,0 +1,97 @@
+h1 {
+  text-align: center;
+}
+body {
+  background-color: gray;
+}
+.primerContendor {
+  position: absolute;
+  top: 28%;
+  left: 40%;
+  width: 250px;
+  height: 350px;
+  border: 2px solid rgb(153, 153, 153);
+  border-radius: 10px 10px 77px 10px;
+  box-shadow: -5px 6px 20px rgba(0, 0, 0, 0.37);
+}
+.display-2 {
+  position: absolute;
+  top: 5%;
+  left: 9%;
+  background-color: rgba(0, 0, 0, 0.37);
+  border-radius: 2%;
+  width: 200px;
+  height: 150px;
+}
+.right {
+  position: absolute;
+  top: 55%;
+  left: 40px;
+  width: 24px;
+  height: 72px;
+  background: rgb(44, 50, 56);
+}
+.left {
+  position: absolute;
+  top: 62%;
+  left: 16px;
+  width: 72px;
+  height: 24px;
+  background: rgb(44, 50, 56);
+}
+.btn {
+  margin: 25px;
+  position: absolute;
+  top: 160px;
+  left: 120px;
+  padding: 6px;
+}
+.btn .A {
+  position: relative;
+  left: 25px;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  background: rgb(44, 50, 56);
+  cursor: pointer;
+  text-align: center;
+}
+.btn .B {
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  background: rgb(44, 50, 56);
+  cursor: pointer;
+  text-align: center;
+}
+
+.start {
+  position: relative;
+  top: 80%;
+  left: 100px;
+  width: 24px;
+  height: 6px;
+  border-radius: 10px;
+  background: rgb(44, 50, 56);
+  cursor: pointer;
+}
+.select {
+  position: relative;
+  top: 78%;
+  left: 140px;
+  width: 24px;
+  height: 6px;
+  border-radius: 10px;
+  background: rgb(44, 50, 56);
+  cursor: pointer;
+}
+.power {
+  position: absolute;
+  top: 15%;
+  margin: 5px;
+  width: 9px;
+  height: 9px;
+  border: 1px solid #ac774d;
+  border-radius: 50px;
+  background: #e4b443;
+}
